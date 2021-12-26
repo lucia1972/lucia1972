@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/lnegreanu"><img src="https://api.daily.dev/devcards/97420c05911e453a9cac8deaf8527744.png?r=f8m" width="400" alt="Lucia Negreanu's Dev Card"/></a>
+
 <!--
 **lucia1972/lucia1972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
